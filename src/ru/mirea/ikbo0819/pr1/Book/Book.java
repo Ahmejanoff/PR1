@@ -1,4 +1,4 @@
-package ru.mirea.ikbo0819.pr1;
+package ru.mirea.ikbo0819.pr1.Book;
 
 import java.lang.*;
 

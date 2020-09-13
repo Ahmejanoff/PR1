@@ -1,4 +1,6 @@
-package ru.mirea.ikbo0819.pr1;
+package ru.mirea.ikbo0819.pr1.Book;
+
+import ru.mirea.ikbo0819.pr1.Book.Book;
 
 public class BookTest {
         public static void main(String[] args) {
